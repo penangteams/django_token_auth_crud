@@ -5,3 +5,9 @@ https://medium.com/@KaziMushfiq1234/add-image-or-file-to-drf-project-a0b0f8c3bd7
 
 Remember to add a
 media/images folder at root
+
+This repo has:
+1) Token based authentication
+2) IsAuthenticated gates
+3) Three to 4 types of users
+4) Profile image/ crud
