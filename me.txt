@@ -3,3 +3,5 @@ https://dev.to/forhadakhan/multi-role-user-authentication-in-django-rest-framewo
 https://github.com/mushfiq1998/add-image-or-file-to-drf-project/tree/main
 https://medium.com/@KaziMushfiq1234/add-image-or-file-to-drf-project-a0b0f8c3bd7d
 
+Remember to add a
+media/images folder at root
