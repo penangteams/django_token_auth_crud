@@ -1,0 +1,5 @@
+https://dev.to/forhadakhan/multi-role-user-authentication-in-django-rest-framework-3nip
+
+https://github.com/mushfiq1998/add-image-or-file-to-drf-project/tree/main
+https://medium.com/@KaziMushfiq1234/add-image-or-file-to-drf-project-a0b0f8c3bd7d
+
